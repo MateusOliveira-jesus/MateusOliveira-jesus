@@ -3,7 +3,7 @@
 💻 **Desenvolvedor Full Stack**
 
 - 🔭 **Atualmente:** Desenvolvedor full stack na Universidade Santo Amaro - Unisa
-- 🌱 **Estudando:** Vue.js e ecossistema front-end
+- 🌱 **Estudando:** Vue.js e tecnologias front-end
 - 📚 **Formação:** Análise e Desenvolvimento de Sistemas - Estácio
 - 😄 **Pronomes:** ele/dele
 
