@@ -6,8 +6,11 @@
 - 🌱 **Estudando:** Vue.js e tecnologias front-end
 - 📚 **Formação:** Análise e Desenvolvimento de Sistemas - Estácio
 - 😄 **Pronomes:** ele/dele
-
 ---
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -40,10 +43,15 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=MateusOliveira-jesus&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusOliveira-jesus&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true&locale=pt-br&custom_title=Linguagens%20Mais%20Utilizadas)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MateusOliveira-jesus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusOliveira-jesus&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="153" alt="languages graph"  />
+</div>
+
+###
 ---
 
 ## 📈 Stack Principal
