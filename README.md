@@ -86,11 +86,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo" />
   </div>
-
-  <!-- Coluna 2: GIF -->
-  <div align="right">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="coding gif"/>
-  </div>
 </div>
 
 
