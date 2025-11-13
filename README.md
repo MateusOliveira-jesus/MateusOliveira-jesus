@@ -27,13 +27,30 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Ferramentas & DevOps
+### 🚀 DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🔧 Ferramentas de Desenvolvimento
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+
+### 📊 Versionamento & Colaboração
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+### 🧪 Testes & Qualidade
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Screenfrog](https://img.shields.io/badge/Screenfrog-000000?style=for-the-badge&logo=monitor&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-1E1E1E?style=for-the-badge&logo=google-chrome&logoColor=white)
+![W3C](https://img.shields.io/badge/W3C-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
+![HTML5 Validator](https://img.shields.io/badge/HTML5_Validator-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Validator](https://img.shields.io/badge/CSS3_Validator-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
